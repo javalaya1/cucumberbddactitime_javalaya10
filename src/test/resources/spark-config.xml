@@ -29,10 +29,10 @@
     <documentTitle>Actitime_Framework</documentTitle>
 
     <!-- report name - displayed at top-nav -->
-    <reportName>Build 1</reportName>
+    <reportName>Build 2</reportName>
 
     <!-- timestamp format -->
-    <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+    <timeStampFormat>MMM dd, yyyy HH_mm_ss</timeStampFormat>
 
     <!-- custom javascript -->
     <scripts>
